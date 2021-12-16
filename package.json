@@ -1,0 +1,28 @@
+{
+  "name": "beamus",
+  "version": "0.1.0",
+  "description": "A direct P2P beam powered by the Hypercore Protocol and Atek Cloud.",
+  "type": "module",
+  "main": "src/index.js", 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purple-Gem-Studio/beamus.git"
+  },
+  "keywords": [
+    "p2p",
+    "socket",
+    "beam",
+    "hyper",
+    "hypercore",
+    "hyperbeam"
+  ],
+  "author": "Joseph Caruso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Purple-Gem-Studio/beamus/issues"
+  },
+  "homepage": "https://github.com/Purple-Gem-Studio/beamus#readme"
+}
